@@ -2,9 +2,9 @@
   "name": "yourpharmacy-data",
   "version": "1.0.0",
   "main": "index.js",
-"scripts": {
-  "start": "json-server --watch db.json --port 8080"
-},
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
